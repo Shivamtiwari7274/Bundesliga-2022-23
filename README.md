@@ -1,1 +1,2 @@
 # Bundesliga-2022-23
+The 2022–23 Bundesliga was the 60th season of the Bundesliga, Germany's premier football competition. It began on 5 August 2022 and concluded on 27 May 2023,and in this project I have use some libraries of pyhton like pandas and numpy to make the final table of the league and in the table one can see the total goal score,goal against,goal difference and total point by each team at the end of league.
